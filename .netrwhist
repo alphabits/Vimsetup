@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/anders/.gvfs'
+let g:netrw_dirhist_2='/home/anders/Hentede filer/install-tl-20101217'
+let g:netrw_dirhist_3='/etc/apache2/conf.d'
+let g:netrw_dirhist_4='/home/anders/alphabits/kassekladde/ui'
+let g:netrw_dirhist_5='/home/anders/.pulse'
